@@ -21,21 +21,57 @@ calendly_googlesheet:
 refresh-citations: yes
 citation_papers: [
   "https://scholar.google.com/scholar?cites=6140457238337460780",
-  "https://scholar.google.com/scholar?cites=15945159957067506879" ]
+  "https://scholar.google.com/scholar?cites=15945159957067506879",
+  "https://scholar.google.com/scholar?cites=8996880785193857596",
+  "https://scholar.google.com/scholar?cites=2037957994236471591",
+  "https://scholar.google.com/scholar?cites=4159765949457035242",
+  "https://scholar.google.com/scholar?cites=524846758283005577",
+  "https://scholar.google.com/scholar?cites=5158733070098623771",
+  "https://scholar.google.com/scholar?cites=6140457238337460780",
+  "https://scholar.google.com/scholar?cites=13001232081892495144",
+  "https://scholar.google.com/scholar?cites=12547961411660092782",
+  "https://scholar.google.com/scholar?cites=8185955008308056566"
+   ]
 citation_googlesheet:
 
 ###### CRAN ######
 refresh-cran: yes
-cran_packages: [ metricminer, ottrpal ]
+cran_packages: [ metricminer, ottrpal, rgoogleclassroom, text2speech, "ari"]
 cran_googlesheet:
 
 ###### GitHub ######
 refresh-github: yes
 github_repos: [
+  FredHutch/gimap,
+  FredHutch/pgmap,
   fhdsl/metricminer,
   fhdsl/metricminer-dashboard,
+  fhdsl/metricminer.org,
   jhudsl/OTTR_Template,
-  jhudsl/OTTR_Template_Website
+  jhudsl/OTTR_Template_Website,
+  jhudsl/OTTR_Quizzes,
+  jhudsl/ottrpal,
+  jhudsl/ari,
+  jhudsl/ottrproject.org,
+  jhudsl/ottr-reports
+  fhdsl/posterpoller,
+  fhdsl/widget-survey,
+  cansavvy/ECYP,
+  fhdsl/conrad,
+  jhudsl/text2speech,
+  jhudsl/ITN_Platforms,
+  fhdsl/Choosing_Genomics_Tools,
+  jhudsl/Documentation_and_Usability,
+  jhudsl/Reproducibility_in_Cancer_Informatics,
+  jhudsl/Adv_Reproducibility_in_Cancer_Informatics,
+  fhdsl/GitHub_Automation_for_Scientists,
+  jhudsl/Computing_for_Cancer_Informatics,
+  fhdsl/Ethical_Data_Handling_for_Cancer_Research,
+  fhdsl/AI_for_Decision_Makers,
+  fhdsl/AI_for_Efficient_Programming,
+  fhdsl/containers-for-scientists-sandbox,
+  fhdsl/containers_for_scientists,
+  fhdsl/Proactive_Data_Management_and_Sharing
   ]
 github_googlesheet:
 
@@ -53,12 +89,12 @@ googleforms_googlesheet:
 
 ###### Slido ######
 refresh-slido: no
-drive_id: 1XWXHHyj32Uw_UyaUJrqp6S--hHnM0-7l
+drive_id:
 slido_googlesheet:
 
 ###### YouTube ######
 refresh-youtube: yes
-video_ids: [ XN_QPRrJZAw, YkYnni-WuaQ ]
+video_ids: [ 0UdpRmdrLF0, oQ8d42fSn0o, oMVVeZjHJ48, sqQnrCSdnl0, oLh6vcJh4c4 ]
 youtube_googlesheet:
 
 ################## DOCKER #######################
