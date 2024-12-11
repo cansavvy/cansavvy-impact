@@ -1,4 +1,7 @@
 
+[![cansavvy's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cansavvy&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+
+
 # metricminer dashboard template <img src="https://raw.githubusercontent.com/fhdsl/metricminer/main/resources/metricminer-gnome.png" width = "100">
 
 This repository is a template dashboard website for you to display metrics mined from various places on the web using metricminer.
