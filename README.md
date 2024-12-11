@@ -1,5 +1,5 @@
 
-[![cansavvy's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cansavvy&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+[![cansavvy's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cansavvy&show_icons=true&theme=monokai&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # metricminer dashboard template <img src="https://raw.githubusercontent.com/fhdsl/metricminer/main/resources/metricminer-gnome.png" width = "100">
